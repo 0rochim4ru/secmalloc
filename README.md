@@ -22,7 +22,7 @@ Pour compiler la bibliothèque statique 'libmy_secmalloc.a' :
 
 $make static
 
-POur compiler la bibliothèque dynamique 'libmy_secmalloc.so':
+Pour compiler la bibliothèque dynamique 'libmy_secmalloc.so':
 
 $make clean dynamic
 
